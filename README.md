@@ -9,17 +9,6 @@
 * [Challenges](#challenges)
 * [Create React App](#bootstrapped-with-create-react-app)
 
-## About
-
-**Habit Tracker** is my final project for [CS50's Introduction to Computer Science Course](https://www.edx.org/course/cs50s-introduction-to-computer-science).
-What can I say, **Habit Tracker** keeps track of your habits :fireworks: :ok_hand: :tada:
-
-### Video presentation
-
-A short video (2 minutes in length) where I present the project.
-
-[![Video presentation](https://i.gyazo.com/e642a79e194b30fa3deaa050e0c4b0f5.png)](https://www.youtube.com/watch?v=zIr_d1ZsIGQ)
-
 ## Features and Stack
 
 ### Features
@@ -84,13 +73,7 @@ Below you'll find the instructions for setting up the project locally and a walk
 ### Clone repo and install dependencies
 
 ```bash
-# Clone the repo
-git clone https://github.com/sitek94/habit-tracker-app.git
 
-# Install dependencies
-cd habit-tracker-app
-yarn
-```
 
 ### Connect Firebase
 
